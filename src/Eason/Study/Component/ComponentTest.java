@@ -28,5 +28,6 @@ public class ComponentTest {
         tomura.add(new File("game.doc", 400));
         tomura.add(new File("junk.mail", 500));
         rootdir.printList();
+        System.out.println("Scan finished.......................");
     }
 }
